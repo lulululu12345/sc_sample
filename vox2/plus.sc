@@ -1,5 +1,5 @@
 + Sample {
-	*vox {
+	*vox2 {
 		var lowest = 24;
 		var transDown = 4;
 		var transUp = 2;
