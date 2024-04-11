@@ -8,6 +8,11 @@ private:: new
 METHOD:: celesta
 METHOD:: tweed
 METHOD:: felt
+METHOD:: vox0
+METHOD:: vox1
+METHOD:: vox2
+METHOD:: vox3
+METHOD:: vox4
 
 INSTANCEMETHODS::
 private:: load, associate, nrtMsg, map, free
